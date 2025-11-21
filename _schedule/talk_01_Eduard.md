@@ -8,5 +8,5 @@ sequence_id: 1
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 title: Keynote
-time: 09:15am - 10:00am
+time: 09:20 - 09:45
 ---

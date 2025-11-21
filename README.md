@@ -1,4 +1,4 @@
-# RSS-workshop 2025
+# HRI-workshop 2026
 
 This Workshop tempalte is based on `sniffle` which is an easy-to-use [Jekyll](https://jekyllrb.com/) theme. `sniffle` automates many of the mundane tasks needed for workshop webpages, including:
 
