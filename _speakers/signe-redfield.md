@@ -8,7 +8,7 @@ webpage: https://www.linkedin.com/in/signe-redfield-88279824/
 # Primary affiliation of the speaker
 affil: US Nava Research Laboratory
 # Link to the speaker's primary affiliation
-# affil_link: https://www.nrl.navy.mil/lasr/
+affil_link: https://www.nrl.navy.mil/lasr/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: signe.jpg
