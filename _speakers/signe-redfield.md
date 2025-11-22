@@ -17,4 +17,4 @@ img: signe.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Signe Redfield is the director of research at the Laboratory for Autonomous Systems Research at the US Nava Research Laboratory. She is a member of the patient-lead research collaborative which advocates for long-covid research.
+Signe Redfield is the Director of Research at the Laboratory for Autonomous Systems Research at the US Nava Research Laboratory. She is a member of the patient-lead research collaborative which advocates for long-covid research.

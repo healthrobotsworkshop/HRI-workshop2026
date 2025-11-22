@@ -6,7 +6,7 @@ name: Elizabeth Jochum
 webpage: https://www.linkedin.com/in/elizabeth-jochum-1a81b75b/
 
 # Primary affiliation of the speaker
-affil: Aalborg University and Director of Robotics and Automation, RA Capital
+affil: Aalborg University and RA Capital
 # Link to the speaker's primary affiliation
 # affil_link: https://vbn.aau.dk/en/persons/jochum/
 
